@@ -1,5 +1,6 @@
 <script>
     // anotacao simples 
+    // outro comentarios
     var meuNome = "alan";
     alert(meuNome);
     
