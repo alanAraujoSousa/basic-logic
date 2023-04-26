@@ -1,4 +1,7 @@
-verrr
-alfa romeu
-space fox
-corsa
+<script>
+    var meuNome = "alan";
+    alert(meuNome);
+    
+    var minhaIdade = 29;
+    alert(minhaIdade); 
+</script>
