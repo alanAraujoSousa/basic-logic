@@ -1,2 +1,7 @@
-kjasdjkadskjasdsda
-klaslkadsklsa
+<script>
+    var meuNome = "alan";
+    alert(meuNome);
+    
+    var minhaIdade = 29;
+    alert(minhaIdade); 
+</script>
